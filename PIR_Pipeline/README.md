@@ -47,6 +47,7 @@ Package installation should now be complete.
 1. Open the command prompt.
 2. Activate the virtual environment `venv`.
 3. In the command prompt type `pir-setup` and press `enter`. A GUI should appear requesting the path at which to create the PIR directories and the path to *RScript.exe*. 
+![GUI for Specifiying directory path and Rscript path](screen_shots\Capture0.PNG)
 4. Click `finish` after providing these paths.
 5. A second window should appear requesting database credentials. 
 6. Click `finish` after entering your credentials.
